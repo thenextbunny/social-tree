@@ -169,6 +169,9 @@ footer {
     }
 
     .link-box {
+        border: 2px solid #A67153;
+        background: #FFFFFF;
+        color: #A67153;
         font-size: 13px;
     }
 }
